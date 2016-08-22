@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'PopperSans';
+  font-weight: 700;
+  src:  url('../font/Popper-Sans.woff2') format('woff2'),
+        url('../font/Popper-Sans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'PopperSerif';
+  font-weight: 700;
+  src:  url('../font/Popper-Serif.woff2') format('woff2'),
+        url('../font/Popper-Serif.woff') format('woff');
+}

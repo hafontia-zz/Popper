@@ -9,7 +9,7 @@ POPPER.Models.sentences = Backbone.Collection.extend({
 
 	model: POPPER.Models.sentence,
 	
-	url: 'js/sentences.json',
+	url: 'http://hafontia.com/Popper/js/sentences.json',
 	
 	colorCycle: 1,
 	
